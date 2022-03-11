@@ -1,0 +1,15 @@
+F:\Zawodowe\Projekty aplikacje itd\Zgadnij liczbę\bin\Debug\net6.0\Zgadnij liczbę.exe
+F:\Zawodowe\Projekty aplikacje itd\Zgadnij liczbę\bin\Debug\net6.0\Zgadnij liczbę.deps.json
+F:\Zawodowe\Projekty aplikacje itd\Zgadnij liczbę\bin\Debug\net6.0\Zgadnij liczbę.runtimeconfig.json
+F:\Zawodowe\Projekty aplikacje itd\Zgadnij liczbę\bin\Debug\net6.0\Zgadnij liczbę.dll
+F:\Zawodowe\Projekty aplikacje itd\Zgadnij liczbę\bin\Debug\net6.0\ref\Zgadnij liczbę.dll
+F:\Zawodowe\Projekty aplikacje itd\Zgadnij liczbę\bin\Debug\net6.0\Zgadnij liczbę.pdb
+F:\Zawodowe\Projekty aplikacje itd\Zgadnij liczbę\obj\Debug\net6.0\Zgadnij liczbę.csproj.AssemblyReference.cache
+F:\Zawodowe\Projekty aplikacje itd\Zgadnij liczbę\obj\Debug\net6.0\Zgadnij liczbę.GeneratedMSBuildEditorConfig.editorconfig
+F:\Zawodowe\Projekty aplikacje itd\Zgadnij liczbę\obj\Debug\net6.0\Zgadnij liczbę.AssemblyInfoInputs.cache
+F:\Zawodowe\Projekty aplikacje itd\Zgadnij liczbę\obj\Debug\net6.0\Zgadnij liczbę.AssemblyInfo.cs
+F:\Zawodowe\Projekty aplikacje itd\Zgadnij liczbę\obj\Debug\net6.0\Zgadnij liczbę.csproj.CoreCompileInputs.cache
+F:\Zawodowe\Projekty aplikacje itd\Zgadnij liczbę\obj\Debug\net6.0\Zgadnij liczbę.dll
+F:\Zawodowe\Projekty aplikacje itd\Zgadnij liczbę\obj\Debug\net6.0\ref\Zgadnij liczbę.dll
+F:\Zawodowe\Projekty aplikacje itd\Zgadnij liczbę\obj\Debug\net6.0\Zgadnij liczbę.pdb
+F:\Zawodowe\Projekty aplikacje itd\Zgadnij liczbę\obj\Debug\net6.0\Zgadnij liczbę.genruntimeconfig.cache
